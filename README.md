@@ -52,41 +52,40 @@ Ascii art outline maps of states and countries
                     |_|
     ;
 
-      Y |
-        |
-      0 +  1
-        |                     aBhkLyqgprxN
-        |                   fLU         pBZcp ovhH3wiTRt
-        |                VboO               vDoh  ltGpFDT
-        |              VYe                             YFn
-        |              j                                8Bf
-        |        uhu   D                                  S7
-    -50 +        3xc  7n                                   XJC
-        |             9Oy                                    az IJvy
-        |               uX                                    kIN ja
-        |                d0zerSlT4sQtl I                         cH
-        |                   d        08OJ                      kt7
-        |                         C  CU7q                    n0Z
-        |                            0 75P                  Ul       VkF
-   -100 +              j                 3g                JM        V V
-        |                                 k                 12  LWz U   Y
-        |                                nM                  n B8 yrv
-        |                    q           z                EufRxfibRjQ  c     3
-        |                                25              7X    iN tu   r47
-        |                                 OZ            rVQ  I 6utsj
-        |                                  m6          TLo      x
-   -150 +                                   lin      ejY
-        |              e                     5Vzvxi3aA
-        |                B
-        |                                                   l
-        |  1                                                B
-        |
-        |
-   -200 +
-        |
-        ---+--------------+--------------+--------------+--------------+----------
-           0             50             100            150            200
-
+        Y |
+          |
+        0 +  1
+          |                     aBhkLyqgprxN
+          |                   fLU         pBZcp ovhH3wiTRt
+          |                VboO               vDoh  ltGpFDT
+          |              VYe                             YFn
+          |              j                                8Bf
+          |        uhu   D                                  S7
+      -50 +        3xc  7n                                   XJC
+          |             9Oy                                    az IJvy
+          |               uX                                    kIN ja
+          |                d0zerSlT4sQtl I                         cH
+          |                   d        08OJ                      kt7
+          |                         C  CU7q                    n0Z
+          |                            0 75P                  Ul       VkF
+     -100 +              j                 3g                JM        V V
+          |                                 k                 12  LWz U   Y
+          |                                nM                  n B8 yrv
+          |                    q           z                EufRxfibRjQ  c     3
+          |                                25              7X    iN tu   r47
+          |                                 OZ            rVQ  I 6utsj
+          |                                  m6          TLo      x
+     -150 +                                   lin      ejY
+          |              e                     5Vzvxi3aA
+          |                B
+          |                                                   l
+          |  1                                                B
+          |
+          |
+     -200 +
+          |
+          ---+--------------+--------------+--------------+--------------+----------
+             0             50             100            150            200
 
 
 
